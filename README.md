@@ -13,7 +13,7 @@
 ## projeto: 
  Básico, BACKEND
 ## diferencial:
- aloquei o código em uma VM na google cloud e rodei via CSH
+ aloquei o código em uma VM na google cloud e rodei via SSH
 
  ## conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissapolianedataeng/) 
